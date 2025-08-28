@@ -1,0 +1,5 @@
+theme = "m10c"
+[params]
+  author = "The White Belt Hacker"
+  description = "Always a beginner, always getting better"
+  avatar = "/avatar.png"
